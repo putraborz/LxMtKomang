@@ -16,7 +16,7 @@ local urlSatuan = "https://raw.githubusercontent.com/putraborz/VerifikasiScWata/
 
 local successUrls = {
     "https://raw.githubusercontent.com/putraborz/WataXMountAtin/main/Loader/WataX.lua",
-    "https://raw.githubusercontent.com/putraborz/LxMtKomang/refs/heads/main/mainmap792.lua"
+    "https://raw.githubusercontent.com/putraborz/LxMtKomang/main/Loader/mainmap792.lua"
 }
 
 -- helper fetch yg lebih toleran (pcall sudah ada tapi jaga lagi)
