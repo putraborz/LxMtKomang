@@ -9,7 +9,7 @@ local hrp
 
 -- 🌐 Rute link (ubah link di sini ke rute kamu)
 local ROUTE_LINKS = {
-    "https://raw.githubusercontent.com/putraborz/WataXScIni/heads/main/komang.lua",
+    "https://raw.githubusercontent.com/putraborz/WataXScIni/refs/heads/main/komang.lua",
 }
 
 local routes = {}
